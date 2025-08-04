@@ -1,7 +1,7 @@
 {
   "name": "build-workflow-test",
   "version": "1.0.0",
-  "scripts": {
+   {
     "build": "echo 'Build script ran successfully'"
   },
   "keywords": [],
